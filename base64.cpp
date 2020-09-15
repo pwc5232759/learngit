@@ -1,6 +1,8 @@
 #include "base64.h"  
   
   
+  
+  
 /* Base64 编码 */   
 char *base64_encode(const char* data, int data_len)   
 {   
